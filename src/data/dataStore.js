@@ -10,8 +10,19 @@ export const settings = {
     defaultText: 'Search...',
     icon: 'search',
   },
+  info: {
+    title: 'Info',
+    image: 'https://cdn.pixabay.com/photo/2017/08/10/10/17/exclamation-point-2620923_960_720.jpg',
+    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+  },
+  faq: {
+    title: 'FAQ',
+    image: 'https://cdn.pixabay.com/photo/2016/11/30/12/09/question-mark-1872634_960_720.jpg',
+    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+  },
   defaultListDescription: '<p>I can do all the things!!!</p>',
   defaultColumnIcon: 'list-alt',
+  defaultHeaderIcon: 'dragon',
 };
 
 export const pageContents = {
