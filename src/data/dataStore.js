@@ -90,6 +90,18 @@ const lists = [
     description: 'Interesting things I want to check out!',
     image: 'http://uploads.kodilla.com/bootcamp/fer/11.react/space.png',
   },
+  {
+    id: 'list-2',
+    title: 'One more things to do <sup>soon!</sup>',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+    image: 'https://image.freepik.com/free-vector/abstract-neon-wallpaper_23-2148558586.jpg',
+  },
+  {
+    id: 'list-3',
+    title: 'third things to do <sup>soon!</sup>',
+    description: 'Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua',
+    image: 'https://png.pngtree.com/png-clipart/20190515/original/pngtree-blue-technology-background-png-image_3722409.jpg',
+  },
 ];
 
 const columns = [
